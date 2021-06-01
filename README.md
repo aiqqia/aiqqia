@@ -12,7 +12,7 @@
   <img align="left" alt="Ayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<p  align="left"><img src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
+<p  align="left"><img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
 ## Hello there 👋
 I'm Ayush Goyal, doing a Bachelor's Degree in Computer Science Engineering. I like working on Research Projects and some fields of Data Science. Currently working with the Parikshit Student Satellite Team to make a nano-satellite and send it into space. I am also looking for additional projects or internships to broaden my understanding in the field.
