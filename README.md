@@ -29,3 +29,8 @@ I'm Ayush Goyal, doing a Bachelor's Degree in Computer Science Engineering. I li
 <a href="https://github.com/aiqqia">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aiqqia&show_icons=true&theme=dracula&line_height=27" alt="Ayush's Github Stats"/>
 </a>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aiqqia&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiqqia&theme=tokyonight" />
+</p>
