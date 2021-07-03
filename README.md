@@ -31,6 +31,6 @@ I'm Ayush Goyal, doing a Bachelor's Degree in Computer Science Engineering. I li
 </a>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aiqqia&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiqqia&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aiqqia&show_icons=true&theme=tokyonight" alt="Ayush's Github Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiqqia&theme=tokyonight" alt="Ayush's Github Stats" />
 </p>
