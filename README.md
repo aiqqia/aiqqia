@@ -26,10 +26,6 @@ I'm Ayush Goyal, doing a Bachelor's Degree in Computer Science Engineering. I li
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiqqia&label=Profile Views&color=blue&style=plastic" alt="aiqqia" /> </p>
 
-<a href="https://github.com/aiqqia" align = "center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aiqqia&show_icons=true&theme=dracula&line_height=27" alt="Ayush's Github Stats"/>
-</a>
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aiqqia&show_icons=true&theme=tokyonight" alt="Ayush's Github Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiqqia&theme=tokyonight" alt="Ayush's Github Stats" />
