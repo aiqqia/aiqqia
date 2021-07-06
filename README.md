@@ -1,15 +1,7 @@
-### Trying to stay awake <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
-
-<a href="https://www.linkedin.com/in/aiqqia/">
-  <img align="left" alt="Ayush's Linkedin" width="22px" style="color=blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### Trying to stay awake <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50" align ="center">
 
 <a href="https://github.com/aiqqia">
   <img align="left" alt="Ayush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://www.instagram.com/_.ayush_goyal._/">
-  <img align="left" alt="Ayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <p>
