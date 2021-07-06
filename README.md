@@ -13,13 +13,13 @@
 </a>
 
 <p>
-  <a href="https://twitter.com/ayush_aiq"><img width="25" height="25" src="/res/twitter.svg"></a>
+  <a href="https://twitter.com/ayush_aiq"><img width="25" height="25" src="/resources/twitter.svg"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/aiqqia"><img width="25" height="25" src="/res/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/aiqqia"><img width="25" height="25" src="/resources/linkedin.svg"></a>
   &nbsp;
-  <a href="https://www.instagram.com/_.ayush_goyal._"><img width="25" height="25" src="/res/instagram.svg"></a>
+  <a href="https://www.instagram.com/_.ayush_goyal._"><img width="25" height="25" src="/resources/instagram.svg"></a>
   &nbsp;
-  <a href="https://discord.com/Ayush#6785"><img width="29" height="28" src="/res/discord.png"></a>
+  <a href="https://discord.com/Ayush#6785"><img width="29" height="28" src="/resources/discord.png"></a>
    &nbsp;
 </p>
 
