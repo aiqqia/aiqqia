@@ -12,6 +12,17 @@
   <img align="left" alt="Ayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<p>
+  <a href="https://twitter.com/ayush_aiq"><img width="25" height="25" src="/res/twitter.svg"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aiqqia"><img width="25" height="25" src="/res/linkedin.svg"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/_.ayush_goyal._"><img width="25" height="25" src="/res/instagram.svg"></a>
+  &nbsp;
+  <a href="https://discord.com/Ayush#6785"><img width="29" height="28" src="/res/discord.png"></a>
+   &nbsp;
+</p>
+
 <p  align="left"><img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
 ## Hello there 👋
