@@ -23,7 +23,7 @@ I'm Ayush Goyal, doing a Bachelor's Degree in Computer Science Engineering. I li
 - 🔭 I’m currently trying my hands on Competitive Coding, learning about REST APIs with Java Spring Boot Framework, and making test plan for sensor calibration.
 - 👯 I’m looking to collaborate on project ideas and participate actively in discussions and webinars about scientific advancements.
 - 🤔 I’m looking for help with Android Development and specifically Spring Boot Framework nd REST APIs.
-- 💬 Ask me anything. I would be happy to help.
+- 💬 Ask me anything. I would be more than happy to help.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aiqqia/) 
 - 😄 Pronouns: he/him
 
