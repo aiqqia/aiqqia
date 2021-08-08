@@ -25,7 +25,6 @@ I'm Ayush Goyal, doing a Bachelor's Degree in Computer Science Engineering. I li
 - 🤔 I’m looking for help with Android Development and specifically Spring Boot Framework nd REST APIs.
 - 💬 Ask me anything. I would be happy to help.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aiqqia/) 
-- 😄 Pronouns: he/him
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiqqia&label=Profile Views&color=blue&style=plastic" alt="aiqqia" /> </p>
 
